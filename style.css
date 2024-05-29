@@ -9,3 +9,11 @@
   height: 100px; /* 高さ120px */
   background-color: #EC715F; /* 背景色 */
 }
+
+.main-visual {
+  width: 100%; /* 横幅いっぱい */
+  height: 650px; /* 高さ650px */
+  background-image: url(img/mv.png);
+  background-size: cover;/* 縦横比を維持したまま背景領域を埋め尽くす */
+  background-position: center; /* 背景画像を中央に配置 */
+}
