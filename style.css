@@ -10,6 +10,10 @@
   background-color: #EC715F; /* 背景色 */
 }
 
+header .heading { /* headerタグ内のheadingクラスにのみ反映される */
+  font-size: 32px;
+}
+
 .main-visual-content {
   width: 350px; /* 横幅350px */
   height: 300px; /* 親の高さに揃える */
