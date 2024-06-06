@@ -12,6 +12,8 @@
 
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
   font-size: 32px;
+  background-image: url(img/logo.png);
+  background-size: cover;/* 縦横比を維持したまま背景領域を埋め尽くす */
 }
 
 .main-visual-content {
