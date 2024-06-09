@@ -38,7 +38,9 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 .nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 0 20px;
+  font-size: 16px;
+  color: #FAFAFA;
+  padding: 0 30px ;
 }
 
 footer {
