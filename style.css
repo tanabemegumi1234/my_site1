@@ -30,8 +30,8 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 }
 
 .nav-list {
-  text-align: center;
-  padding: 30px 0;
+  text-align:right;
+  padding: 10px 0;
   margin: 0 auto;
 }
 
@@ -41,6 +41,11 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   font-size: 16px;
   color: #FAFAFA;
   padding: 0 30px ;
+}
+
+
+.logo{
+  background-image: url(img/logo.jpg);
 }
 
 footer {
