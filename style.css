@@ -56,6 +56,7 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   padding: 10px 0; /* 上下に70px、左右に0pxの内側余白 */
   font-size: 32px;
   color: #000000;
+  border-bottom: solid 1px black;
 }
 
 .Portfolio-text{
